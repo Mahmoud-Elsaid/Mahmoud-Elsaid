@@ -24,7 +24,7 @@ Hello! I'm Mahmoud Elsaied, a passionate React front-end developer and a recent 
 
 - **Email:** [mahmoudelsaid560@gmail.com](mailto:mahmoudelsaid560@gmail.com)
 - **LinkedIn:** [Mahmoud Elsaied](https://www.linkedin.com/in/mahmoud-elsaid-a55a29239)
-- **GitHub:** [github.com/MahmoudElsaied](https://github.com/Mahmoud-Elsaid)
+- **GitHub:** [https://github.com/Mahmoud-Elsaid](https://github.com/Mahmoud-Elsaid)
 
 ## Let's Connect!
 
